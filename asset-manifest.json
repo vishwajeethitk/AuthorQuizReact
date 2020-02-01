@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AuthorQuizReact/static/css/main.43824766.chunk.css",
-    "main.js": "/AuthorQuizReact/static/js/main.9e71b0b0.chunk.js",
-    "main.js.map": "/AuthorQuizReact/static/js/main.9e71b0b0.chunk.js.map",
-    "runtime-main.js": "/AuthorQuizReact/static/js/runtime-main.3b91855d.js",
-    "runtime-main.js.map": "/AuthorQuizReact/static/js/runtime-main.3b91855d.js.map",
-    "static/js/2.af8e084c.chunk.js": "/AuthorQuizReact/static/js/2.af8e084c.chunk.js",
-    "static/js/2.af8e084c.chunk.js.map": "/AuthorQuizReact/static/js/2.af8e084c.chunk.js.map",
-    "index.html": "/AuthorQuizReact/index.html",
-    "precache-manifest.5056fe9f1afc2f1750c5fbb5d4db0133.js": "/AuthorQuizReact/precache-manifest.5056fe9f1afc2f1750c5fbb5d4db0133.js",
-    "service-worker.js": "/AuthorQuizReact/service-worker.js",
-    "static/css/main.43824766.chunk.css.map": "/AuthorQuizReact/static/css/main.43824766.chunk.css.map",
-    "static/js/2.af8e084c.chunk.js.LICENSE": "/AuthorQuizReact/static/js/2.af8e084c.chunk.js.LICENSE"
+    "main.css": "/author-quiz-app/static/css/main.43824766.chunk.css",
+    "main.js": "/author-quiz-app/static/js/main.3651cbfc.chunk.js",
+    "main.js.map": "/author-quiz-app/static/js/main.3651cbfc.chunk.js.map",
+    "runtime-main.js": "/author-quiz-app/static/js/runtime-main.1c004432.js",
+    "runtime-main.js.map": "/author-quiz-app/static/js/runtime-main.1c004432.js.map",
+    "static/js/2.af8e084c.chunk.js": "/author-quiz-app/static/js/2.af8e084c.chunk.js",
+    "static/js/2.af8e084c.chunk.js.map": "/author-quiz-app/static/js/2.af8e084c.chunk.js.map",
+    "index.html": "/author-quiz-app/index.html",
+    "precache-manifest.7b7401535c009d7b91635f6ceab6c612.js": "/author-quiz-app/precache-manifest.7b7401535c009d7b91635f6ceab6c612.js",
+    "service-worker.js": "/author-quiz-app/service-worker.js",
+    "static/css/main.43824766.chunk.css.map": "/author-quiz-app/static/css/main.43824766.chunk.css.map",
+    "static/js/2.af8e084c.chunk.js.LICENSE": "/author-quiz-app/static/js/2.af8e084c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b91855d.js",
+    "static/js/runtime-main.1c004432.js",
     "static/js/2.af8e084c.chunk.js",
     "static/css/main.43824766.chunk.css",
-    "static/js/main.9e71b0b0.chunk.js"
+    "static/js/main.3651cbfc.chunk.js"
   ]
 }
